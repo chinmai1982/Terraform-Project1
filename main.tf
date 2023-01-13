@@ -1,9 +1,4 @@
 
-
-
-
-
-
 #4. create a subnet
 
 resource "aws_subnet" "chinu-test-subnet" {
